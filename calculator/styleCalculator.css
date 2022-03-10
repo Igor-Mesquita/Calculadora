@@ -30,9 +30,13 @@ body {
 }
 
 #results {
-  padding: 10px;
+  padding: 8px;
   background-color: #ebebeb;
   color: black;
   text-align: right;
 }
-  
+
+.buttons {
+  height: 45px;
+  width: 45px;
+}
